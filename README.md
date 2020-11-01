@@ -7,3 +7,4 @@ können vom Kassierer eingegeben werden. Nach der Eingabe des Rabatts werden die
 Steuern ausgerechnet und ausgegeben.
 
 Fertiggestellt am: 11.03.2018
+Upload am 01.11.2020
